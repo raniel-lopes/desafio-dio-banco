@@ -1,6 +1,6 @@
 package desafio_Dio_Banco;
 
-public interface iCompra {
+public interface IConta {
 
 	void sacar(double valor);
 
